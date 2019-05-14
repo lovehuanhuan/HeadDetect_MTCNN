@@ -17,3 +17,11 @@ test_video.cmd  (for video)
 |:------:|:------:|:------:|:------:|
 | 1920x1080 | 50 | 48ms| i7-8750H @2.20GHz |
 | 640x480 | 50 | 5ms| i7-8750H @2.20GHz |
+
+# Deficiencies
+1. Small dataset leads to missed detection.
+2. Heads in hats can't be detected.
+3. Any questions can be contacted by the author.
+
+# Reference
+https://blog.csdn.net/samylee
