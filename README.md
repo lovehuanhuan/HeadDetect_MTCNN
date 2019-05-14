@@ -21,7 +21,8 @@ test_video.cmd  (for video)
 # Deficiencies
 1. Small dataset leads to missed detection.
 2. Heads in hats can't be detected.
-3. Any questions can be contacted by the author.
+3. Welcome to provide good datasets to help improve the robustness of the algorithm.
+4. Any questions can be contacted by the author.
 
 # Reference
 https://blog.csdn.net/samylee
