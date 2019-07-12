@@ -3,7 +3,7 @@ CPU real-time head detection
 
 # Test steps
 ## step1
-Download opencv_dll and put it to current directory [BaiDu Cloud](https://pan.baidu.com/s/143Ia9lH9BXNiv-hSPSu4Bw)
+Download opencv_dll and put it to current directory [BaiDu Cloud](https://pan.baidu.com/s/1QaUexi1C-l1lYU_j4VoxrQ) pw:u2ib
 ## step2
 Set parameters:
 `HeadDetect.exe min_size test_type test_path`
